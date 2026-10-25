@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/feed/youtube.xml"
+  to = "https://www.youtube.com/feeds/videos.xml?channel_id=UCJD-UtyBgYWqvmp_lknn7Lg"
+  status = 200
+  force = true
